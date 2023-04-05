@@ -20,7 +20,7 @@
 * Open the terminal and run the following commands
 
 ```
-git clone https://github.com/godbotsdiscord/God-Security-v1.git
+git clone https://github.com/Stunt-Devs/God-Bot-Open-Source
 cd discord-js-bot
 npm install
 ```
