@@ -47,7 +47,7 @@ God Security is a feature-rich discord bot with new features constantly being up
 
 ### Categories
 
-Automod has an extensive list of all useful commands (**more than 100**) which are categorized as follows
+God Security has an extensive list of all useful commands (**more than 100**) which are categorized as follows
 
 * **Automod**: `antighostping`, `antiinvites`, `antilinks`, `antiscam`, `maxlines`, `maxmentions`, ...
 * **Admin**: `welcome`, `farewell`, `reaction-roles`, ...
